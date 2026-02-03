@@ -1,6 +1,8 @@
 # Valentines
 A cute message to ask your love to be your valentine !! &lt;3
 To add your custom messsage to it;
+You can download the files or clone the repository !
+
 1) Start your VS Code or any other IDE you use.
 2) Open the full folder of the github in VS Code.
 3) Open index.html
